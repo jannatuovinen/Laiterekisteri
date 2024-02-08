@@ -1,2 +1,2 @@
 # Laiterekisteri
-Luokkaharjoituksia, laiterekisteri
+Esimerkki laiterekisterin ohjelmoinnista C#-kielellä
